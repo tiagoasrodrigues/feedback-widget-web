@@ -26,7 +26,7 @@ export const feedbackTypes = {
     title: "Outros",
     image: {
       source: thoughtImageUrl,
-      alt: "Imagem de um balão de pensamento",
+      alt: "Imagem de uma nuvem de pensamento",
     },
   },
 };
