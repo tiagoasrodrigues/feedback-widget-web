@@ -10,9 +10,9 @@ module.exports = {
           300: "#996DFF"
         }
       },
-      borderRadius: {
-        md: "4px"
-      }
+        borderRadius: {
+          md: "4px"
+        }
     },
   },
   plugins: [
